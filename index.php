@@ -7,7 +7,7 @@
 	$uri .= $_SERVER['HTTP_HOST'];
 	header('Location: '.$uri.'/dashboard/');
 	exit;
-echo "wwwwwww========"
+echo ""
 ?>
 Something is wrong with the XAMPP installation :-(
 echo "hi"
