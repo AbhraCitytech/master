@@ -7,5 +7,5 @@
 	$uri .= $_SERVER['HTTP_HOST'];
 	header('Location: '.$uri.'/dashboard/');
 	exit;
-echo "this is for main";
+echo "this is for A";
 ?>
